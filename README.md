@@ -6,6 +6,6 @@ Health care field has a vast amount of data, for processing those data certain t
 - Dataset is collected from kaggle.com
 - Data Cleaning, Data Visualization, EDA and model is built to predict Heart Disease
 - Algorithms applied :
-* KNN Algorithm
-* Decision Tree Classifier
+  * KNN Algorithm
+  * Decision Tree Classifier
 - The model is successfully built and has achieved the highest accuracy of **84.62%**
